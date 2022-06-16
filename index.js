@@ -17,3 +17,6 @@ const fs = require('fs');
 // fs.mkdirSync('challenge');
 
 // fs.rmdirSync('challenge');
+
+
+console.log('Working');
